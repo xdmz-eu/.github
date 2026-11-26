@@ -2,6 +2,10 @@
 
 Where all organizations connect.
 
+### About
+
+xDMZ connects my projects through shared infrastructure and small automations.
+
 ## Project areas
 
 See the xDMZ project directory on [Committed Sins](https://committedsins.dev/#other-projects).
